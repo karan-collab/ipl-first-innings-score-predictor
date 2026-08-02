@@ -3,7 +3,7 @@ Linear Regression (PP Runs),21.74,27.2,0.398
 Linear Regression (+ PP Wickets),22.16,26.25,0.439
 Linear Regression (+ Dot Ball %),22.57,26.74,0.418
 Linear Regression (+ Boundary %),22.56,26.72,0.419
+Linear Regression (+ Batting Team %),22.96,27.3,0.393
 Linear Regression (+ Season),21.89,26.08,0.446
-Decision Tree,22.74,27.2,0.39
 Random Forest,21.35,25.72,0.461
 XGBoost,22.17,26.48,0.429
